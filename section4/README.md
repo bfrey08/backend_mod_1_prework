@@ -23,8 +23,11 @@ One challenge learners in a new environment/content area face is feeling like th
 
 So this week, we would like you to start self-monitoring your progress. Before you start on the technical work, reflect back on how the pre-work has gone so far.
 - Have the time estimates matched up with your experience?
+  * My time estimates have not exactly matched up to what I set out to accomplish. Large blocks of one project have proved to be less productive than I would have liked.
 - When you sit down to start working, do you have a clear goal of what you want to accomplish and in how much time? If so, how aligned is that to what actually happens?
+  * Yes. I have created a clear path to accomplish what I need too. I believe I need to break them down into smaller chunks however to be more productive.
 - How do you work best - in 2 hour blocks, 4 hour blocks, etc? Do you take breaks regularly? Do you have a system to hold yourself accountable to taking breaks?
+  * I believe I work best in 2 hour blocks. I tend to naturally take breaks not based on time but rather based on what I have accomplished. I believe this to be a subpar way of taking breaks as if I get stuck and do not accomplish something -- I tend to keep working. I have an installed a browser extension to help facilitate my POM breaks. I will look to reinforce this method socially.
 
 You've probably heard of the Pomodoro Technique in Mod 0 classes (and elsewhere, maybe!). During this final section of pre-work, we are going to ask that you follow this technique. Please read about it [here](https://www.dovico.com/blog/2020/08/26/the-pomodoro-technique-how-to-manage-your-work-time-and-flow-the-easy-way/). The article doesn't mention writing down Step 1, but we ask that you find a special spot in your notebook where you do this for each work session. In the deliverables, we will ask that you share what you wrote down for Step 1 of the technique each time you started a new task. _Note: if the 25 minutes on/3-5 minutes off isn't best for you, you do **not** have to follow that! The main focus of this is setting an intention and continuing to better understand your working style._
 
@@ -36,13 +39,13 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
 
-    - [ ] [What Are Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#whatareobjects) section from LaunchSchool.
+    - [X] [What Are Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#whatareobjects) section from LaunchSchool.
 
-    - [ ] [Classes Define Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#classesdefineobjects) section from LaunchSchool.
+    - [X] [Classes Define Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#classesdefineobjects) section from LaunchSchool.
 
-    - [ ] [Classes and Objects Part 1](https://launchschool.com/books/oo_ruby/read/classes_and_objects_part1) from LaunchSchool.
+    - [X] [Classes and Objects Part 1](at) from LaunchSchool.
 
-    - [ ] [Objects, Attributes and Methods](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#11.-objects,-attributes,-and-methods) from Ruby in 100 Minutes.
+    - [X] [Objects, Attributes and Methods](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#11.-objects,-attributes,-and-methods) from Ruby in 100 Minutes.
 
 1. Work through the files in the section4/exercises directory.
 

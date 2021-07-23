@@ -28,8 +28,11 @@ Read/watch one or both of the following:
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 - What are two points from the article or video that either resonated with you, or were brand new to you?
+  * The video described a growth mindset as simply focusing on how you are going to overcome challenges. You can keep growing. I really enjoyed the point that that some days you simply do not have a growth mindset and on these days just knowing that tomorrow will be better and getting some rest can be very impactful in restoring your growth mindset.
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+  * I feel like I do a good job of demonstrating a growth mindset. I break down big challenges with small steps towards solutions. I focus on what can be done and rarely say nothing can be done. I treat something I'm not as skilled at as an opportunity. I am a big fan of "mindsets" and I think they can really aid me in getting to where I want to go. The growth mindset hits home in spending time on focusing how to get to where you want to be - what's that next step? How do we hurdle the challenge?
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+  * Something I have gained skill in over the last 2 years is managing people. Working with a multitude of different personalities and unique individuals and helping them come together in a team to create and work together towards a common goal. I grew the skills through a lot of learning experiences; through conflicts and resolutions; through constant reflection combined with asking for and receiving feedback. I learned about and utilized the growth mindset to help manage as it helped employees continuously grow and reach the goals that they wanted to reach in turn providing my a lot of fulfillment and engagement.
 
 ## Part B Arrays + Hashes
 
@@ -37,14 +40,14 @@ Today you will learn about two common data structures: arrays and hashes.
 
 When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work locally, and then send your work to Github.
 
-1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory. 
-    - [ ] Read about what an [array](https://learnrubythehardway.org/book/ex32.html) is from Learn Ruby the Hard Way.
+1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
+    - [x] Read about what an [array](https://learnrubythehardway.org/book/ex32.html) is from Learn Ruby the Hard Way.
 
-    - [ ] Learn how arrays are [index-based](https://learnrubythehardway.org/book/ex34.html) from Learn Ruby the Hard Way.
+    - [x] Learn how arrays are [index-based](https://learnrubythehardway.org/book/ex34.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Hashes](https://learnrubythehardway.org/book/ex39.html) from Learn Ruby the Hard Way.
+    - [x] [Hashes](https://learnrubythehardway.org/book/ex39.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Hashes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes) from Ruby in 100 minutes.
+    - [X] [Hashes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes) from Ruby in 100 minutes.
 
 1. Work through the arrays.rb file in the section3/exercises directory.
 
